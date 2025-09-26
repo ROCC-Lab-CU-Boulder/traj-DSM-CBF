@@ -21,10 +21,7 @@ your path:
 addpath(userpath+"\trajectory-DSM-CBFs")
 ```
 
-\TODO
-
-We included two example files `rdcbf_example1.mlx` and `rdcbf_example2.mlx` as MATLAB Live Scripts that will guide you in using the
-package. They solve Examples 1 and 2, respectively, of our paper.
+To run the code, execute the file `pend_sim_all.m`.
 
 ## Acknowledgements
 This work was supported by the University of Colorado Boulder and the NSF-CMMI Award #2411667.
