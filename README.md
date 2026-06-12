@@ -18,7 +18,7 @@ The following tools are recommended:
 The package is lightweight and there is no installation beyond adding the folder to
 your path:
 ```
-addpath(userpath+"\trajectory-DSM-CBFs")
+addpath(userpath+"\traj-DSM-CBFs")
 ```
 
 To run the code, execute the file `pend_sim_all.m`.
