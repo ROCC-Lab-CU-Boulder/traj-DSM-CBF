@@ -12,7 +12,6 @@ The following MATLAB toolboxes are required:
 * [Control Systems Toolbox](https://www.mathworks.com/products/control.html)
 
 The following tools are recommended:
-* [MPT3](https://www.mpt3.org/) for visualizing the RMOAS.
 * [MOSEK](https://www.mosek.com/) as a specialized convex QP solver. Free [academic licenses](https://www.mosek.com/products/academic-licenses/) are available.
 
 The package is lightweight and there is no installation beyond adding the folder to
